@@ -1,0 +1,32 @@
+{
+    "current_round": 1,
+    "current_leader": "AI_0",
+    "leader_index": 0,
+    "failed_team_votes": 2,
+    "quest_results": [],
+    "lady_of_the_lake_owner": "AI_7",
+    "lady_history": [],
+    "round_history": {
+        "round_1": {
+            "required_team_size": 3,
+            "proposed_team": [
+                "AI_0",
+                "AI_2",
+                "AI_4"
+            ],
+            "team_votes": {
+                "AI_0": "Reject",
+                "AI_1": "Reject",
+                "AI_2": "Reject",
+                "AI_3": "Reject",
+                "AI_4": "Reject",
+                "AI_5": "Approve",
+                "AI_6": "Reject",
+                "AI_7": "Approve"
+            },
+            "quest_votes": {}
+        }
+    },
+    "assassination_target": null,
+    "assassination_hit_merlin": null
+}

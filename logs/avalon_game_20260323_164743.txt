@@ -1,0 +1,51 @@
+=== 赛博阿瓦隆 对局日志 [20260323_164743] ===
+
+
+⚙️ [系统] === 赛博阿瓦隆 游戏初始化开始 ===
+
+
+⚙️ [系统] 真实身份映射 (仅上帝可见): {'AI_0': '派西维尔', 'AI_1': '爪牙', 'AI_2': '梅林', 'AI_3': '莫甘娜', 'AI_4': '忠臣', 'AI_5': '刺客', 'AI_6': '忠臣', 'AI_7': '忠臣'}
+
+  🧠 [内心OS | AI_0 (派西维尔) | 能量:10] -> 已获取初始剧本。机密信息：你看到了两位神秘人：AI_2, AI_3。其中一个是真梅林，另一个是假扮梅林的坏人莫甘娜。你需要通过发言分辨他们，并保护真梅林。你可以伪装成梅林，也可以假装自己是梅林伪装的派西维尔
+  🧠 [内心OS | AI_1 (爪牙) | 能量:10] -> 已获取初始剧本。机密信息：你的坏人队友是：AI_3, AI_5。你们要互相配合，混淆好人的视听。
+  🧠 [内心OS | AI_2 (梅林) | 能量:10] -> 已获取初始剧本。机密信息：你看到了邪恶阵营的玩家是：AI_1, AI_3, AI_5。你必须暗中引导好人，但绝不能让坏人发现你是梅林！你可以伪装为派西维尔，告诉所有人你是派你有信息，也可以伪装成平民等躺赢，也可以悍跳梅林打反逻辑
+  🧠 [内心OS | AI_3 (莫甘娜) | 能量:10] -> 已获取初始剧本。机密信息：你的坏人队友是：AI_1, AI_5。你们要互相配合，混淆好人的视听。同时你知道派西维尔可以看到包括你在内的两个人分别是梅林和莫干那，你需要利用好这一点，无论是对跳派西维尔还是从梅林的视角打逻辑，混淆好人视听或者诱使可能的派西维尔不小心露出梅林的信息。但是直接问会导致自己暴露
+  🧠 [内心OS | AI_4 (忠臣) | 能量:10] -> 已获取初始剧本。机密信息：你是一个闭眼好人（亚瑟王的忠臣）。你什么都不知道，只能通过听大家的发言来盘逻辑、找坏人。也可以悍跳身份，以保护真正的梅林
+  🧠 [内心OS | AI_5 (刺客) | 能量:10] -> 已获取初始剧本。机密信息：你的坏人队友是：AI_1, AI_3。你们要互相配合，混淆好人的视听。
+  🧠 [内心OS | AI_6 (忠臣) | 能量:10] -> 已获取初始剧本。机密信息：你是一个闭眼好人（亚瑟王的忠臣）。你什么都不知道，只能通过听大家的发言来盘逻辑、找坏人。也可以悍跳身份，以保护真正的梅林
+  🧠 [内心OS | AI_7 (忠臣) | 能量:10] -> 已获取初始剧本。机密信息：你是一个闭眼好人（亚瑟王的忠臣）。你什么都不知道，只能通过听大家的发言来盘逻辑、找坏人。也可以悍跳身份，以保护真正的梅林
+
+⚙️ [系统] 所有 AI 玩家已就绪。游戏正式开始！
+
+📢 [公屏] 系统主持人:  【局势通报】
+        现在是游戏第一轮 游戏刚刚开始，所有人都没额外的推理信息。请在接下来的讨论中商量出第一轮的车队人选. 
+当前发车失败次数: 0/5。本轮需要 3 人上车。本轮队长是：AI_1。
+
+⚙️ [系统] >>> 进入自由讨论阶段 <<<
+
+📢 [公屏] 系统主持人: 第 1 轮开始！当前发车失败次数: 0/5。
+本轮需要 3 人上车。本轮队长是：AI_1。
+
+⚙️ [系统] ❌ [AI_1] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_6] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_4] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_7] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_3] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_2] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_0] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
+
+⚙️ [系统] ❌ [AI_5] 运行异常: get_intent_evaluation_prompt() takes from 1 to 2 positional arguments but 4 were given
+
